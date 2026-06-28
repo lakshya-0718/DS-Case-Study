@@ -37,8 +37,8 @@ Throughout the 20-question analysis, several major insights were uncovered:
    ```bash
    pip install pandas numpy matplotlib seaborn tabulate
    ```
-3. Run the `youtube_analysis_v2.py` script or open the `.ipynb` notebook in Jupyter / Google Colab.
+3. Open the `youtube_analytics_notebook.ipynb` notebook in Jupyter / Google Colab.
 4. The script will automatically clean the data, calculate the necessary aggregations, and generate the 20 visualizations.
 
 ---
-*This project was developed as a professional data science portfolio piece demonstrating end-to-end data cleaning, EDA, and statistical storytelling.*
+*This project was originally built during a DS with Python course with Finlatics but was completely dismantled, transformed, and rebuilt from the ground up to demonstrate professional, end-to-end data cleaning, EDA, and statistical storytelling.*
